@@ -1,6 +1,6 @@
 Welcome to My GitHub Profile! 😃👋
 ## About Me
-I'm Kayalvizhi T, a Data Scientist with a passion for turning complexity into clarity. I thrive on exploring problems deeply and applying data-driven thinking to make a lasting impact.
+👋 Hi, I'm Kayalvizhi T — an Agentic AI and ML Engineer passionate about building intelligent, autonomous systems and full-stack applications. I love blending AI reasoning, data science, and scalable engineering with tools like LangChain, FastAPI, React, Snowflake, and AWS to turn ideas into impactful solutions. 🚀
 
 ### Connect with Me
 **Portfolio:** https://kayalvizhi-tpm.lovable.app/ <br>
