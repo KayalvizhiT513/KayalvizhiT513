@@ -6,4 +6,4 @@ I'm Kayalvizhi T - an Agentic AI and ML Engineer building intelligent, autonomou
 **Portfolio:** https://kayalvizhi-tpm.lovable.app/ <br>
 **LinkedIn:** www.linkedin.com/in/kayalvizhi-t
 
-Feel free to explore my repositories and reach out for collaborations!Would love to build an Agentic AI application together😃
+Feel free to explore my repositories and reach out for collaborations! Would love to build an Agentic AI application together😃
