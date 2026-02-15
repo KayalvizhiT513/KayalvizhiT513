@@ -1,4 +1,4 @@
-# Hi, I’m Kayalvizhi👋
+# Hi, I’m Kayalvizhi 👋
 
 I’m **Kayalvizhi T**, an **Agentic AI & Machine Learning Engineer** building intelligent, autonomous systems and full-stack applications.
 
