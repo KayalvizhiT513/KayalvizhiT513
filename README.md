@@ -12,11 +12,4 @@ I’m studying deep learning **beyond black-box usage**—deriving equations, un
 * 🌐 Portfolio: [https://kayalvizhi-tpm.lovable.app/](https://kayalvizhi-tpm.lovable.app/)
 * 💼 LinkedIn: [https://www.linkedin.com/in/kayalvizhi-t](https://www.linkedin.com/in/kayalvizhi-t)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="./generated/github-metrics.svg" alt="GitHub Metrics" width="49%" />
-  <img src="./generated/github-languages.svg" alt="Top Languages" width="49%" />
-</p>
-
 Feel free to explore my repositories, collaborate on Agentic AI systems, or critically review my deep learning work and challenge my understanding.
